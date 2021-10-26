@@ -1,4 +1,4 @@
-package fp.dam.psp.ejemplos;
+package fp.dam.psp.ejemplos.ejemplo1;
 
 public class Main {
 
